@@ -1,0 +1,36 @@
+.movie-card{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: ;
+    justify-content: space-around;
+    border-radius: 5px;
+    height: 50vh;
+    width: 50vw;
+}
+.movie-details{
+    /* position: relative; */
+    display: flex;
+    flex-direction:column;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 5% 5% 5% 5%;
+    margin-left: -30%;
+    border-radius: 5;
+    justify-content: space-around;
+    width: 50%;
+    height: 50%;
+    color: aliceblue;
+    background-color: rgba(0,0,0,0.5);
+}
+/* .pic-1{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+}
+.pic-1 img{
+    height: 100%;
+    width: 100%;   
+} */
